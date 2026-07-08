@@ -1,0 +1,12 @@
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.AssemblyInfoInputs.cache
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.AssemblyInfo.cs
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.csproj.CoreCompileInputs.cache
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.sourcelink.json
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\bin\Release\net8.0\Employee.Core.deps.json
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\bin\Release\net8.0\Employee.Core.dll
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\bin\Release\net8.0\Employee.Core.pdb
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.dll
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\refint\Employee.Core.dll
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\Employee.Core.pdb
+C:\Users\MITTAPALLI KULADEEP\git\dot-net-app-service-CICD\employee-dotnet-app\Employee.Core\obj\Release\net8.0\ref\Employee.Core.dll
