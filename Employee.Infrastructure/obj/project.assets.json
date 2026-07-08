@@ -3988,11 +3988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MITTAPALLI KULADEEP\\git\\dot-net-app-service-CICD\\employee-dotnet-app\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\MITTAPALLI KULADEEP\\git\\employee-dotnet-app\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
       "projectName": "Employee.Infrastructure",
-      "projectPath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\dot-net-app-service-CICD\\employee-dotnet-app\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\employee-dotnet-app\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\MITTAPALLI KULADEEP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\dot-net-app-service-CICD\\employee-dotnet-app\\Employee.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\employee-dotnet-app\\Employee.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MITTAPALLI KULADEEP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4007,8 +4007,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MITTAPALLI KULADEEP\\git\\dot-net-app-service-CICD\\employee-dotnet-app\\Employee.Core\\Employee.Core.csproj": {
-              "projectPath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\dot-net-app-service-CICD\\employee-dotnet-app\\Employee.Core\\Employee.Core.csproj"
+            "C:\\Users\\MITTAPALLI KULADEEP\\git\\employee-dotnet-app\\Employee.Core\\Employee.Core.csproj": {
+              "projectPath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\employee-dotnet-app\\Employee.Core\\Employee.Core.csproj"
             }
           }
         }
