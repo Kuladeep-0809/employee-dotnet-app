@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKCxv0Uv3sk=",
+  "dgSpecHash": "41T1uBAyw/k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\dot-net-app-service-CICD\\employee-dotnet-app\\Employee.Core\\Employee.Core.csproj",
+  "projectFilePath": "C:\\Users\\MITTAPALLI KULADEEP\\git\\employee-dotnet-app\\Employee.Core\\Employee.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
