@@ -3,7 +3,9 @@ name: Build and Deploy .NET App to Azure Web App
 on:
   push:
     branches:
-      - develop
+      - develop2
+    branches-ignore:
+      - feature/*
 
 jobs:
   build-and-deploy:
